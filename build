@@ -1,0 +1,2 @@
+#!/bin/bash
+solcjs Bond.sol IERC20.sol --bin
